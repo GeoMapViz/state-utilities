@@ -1,0 +1,2 @@
+
+print "yet another test"
