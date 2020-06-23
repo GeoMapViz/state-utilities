@@ -17,4 +17,4 @@ print('Peter turned 26 yesterday')
 
 print('it is hot out')
 
-print('He looks great for his age')
+print('He looks bad for his age')
